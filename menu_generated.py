@@ -1,4 +1,4 @@
-## Menu generater
+# Menu Generater
 item_1 = "Baryani"
 item_2 = "Palao"
 item_3 = "Kheer"
