@@ -1,3 +1,4 @@
+# Credit car alert system message generatot 
 Card_Num = "1234 1234 1234 5678"
 last_dig = Card_Num[15:]
 hide_num = "X" * 4 + " "
